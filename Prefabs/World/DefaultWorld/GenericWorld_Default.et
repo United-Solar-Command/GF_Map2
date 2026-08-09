@@ -1,0 +1,5 @@
+GenericWorldEntity : "{08A95D735ECC517F}Prefabs/World/DefaultWorld/GenericWorld_Default.et" {
+ ID "52D6BA0D0191DC3A"
+ coords 0 0 0
+ boundMaxs 10000 10000 10000
+}
