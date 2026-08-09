@@ -1,0 +1,8 @@
+GameProject {
+ ID "GFMap2"
+ GUID "6A1352FA345CEA5F"
+ TITLE "GF_Map2"
+ Dependencies {
+  "624F15820F68F314" "58D0FB3206B6F859"
+ }
+}
