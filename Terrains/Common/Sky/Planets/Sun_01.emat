@@ -1,0 +1,6 @@
+MatSkySun {
+ AppearInProbe 0
+ LV 20
+ PlanetSize 0.004
+ TintColor 1 0.505 0 1
+}
