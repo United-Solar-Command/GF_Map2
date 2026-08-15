@@ -1,8 +1,22 @@
 GameProject {
  ID "GFMap2"
  GUID "6A1352FA345CEA5F"
- TITLE "GF_Map2"
+ TITLE "Hestia"
  Dependencies {
   "624F15820F68F314" "58D0FB3206B6F859"
+ }
+ Configurations {
+  GameProjectConfig PC {
+  }
+  GameProjectConfig XBOX_ONE {
+  }
+  GameProjectConfig XBOX_SERIES {
+  }
+  GameProjectConfig PS4 {
+  }
+  GameProjectConfig PS5 {
+  }
+  GameProjectConfig HEADLESS {
+  }
  }
 }
