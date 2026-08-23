@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{4CAA0DA4214F497F}Terrains/Common/WeatherPresets/StateMachine/WeatherItems.conf"
+ Configurations {
+  CONFResourceClass PC {
+  }
+  CONFResourceClass XBOX_ONE : PC {
+  }
+  CONFResourceClass XBOX_SERIES : PC {
+  }
+  CONFResourceClass PS4 : PC {
+  }
+  CONFResourceClass PS5 : PC {
+  }
+  CONFResourceClass HEADLESS : PC {
+  }
+ }
+}

@@ -1,0 +1,5 @@
+MatStarDome : "{C8DD10DC67D45E10}Terrains/Common/Sky/Planets/Stars_01.emat" {
+ StarSize 0.3
+ ColorSaturation -0.25
+ GlowPulseSpeed 3.5
+}

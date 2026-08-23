@@ -1,0 +1,5 @@
+MatSkyMoon : "{63C716F4064F5D43}Terrains/Common/Sky/Planets/Moon_01.emat" {
+ PlanetSize 0.08
+ ZenithColor 0.569 0.294 0.157 0
+ PlanetSortOrder 53
+}

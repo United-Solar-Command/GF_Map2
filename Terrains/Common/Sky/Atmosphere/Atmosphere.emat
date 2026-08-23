@@ -1,0 +1,4 @@
+MatAtmosphere {
+ AerialPerspectiveStrength 5.735
+ RayleighScattering 0.353 0.536 1 1
+}
